@@ -1,6 +1,6 @@
 # Anipop Basic
 
-A new Flutter project.
+Anipop is a company i made up to practice flutter ui in flutter web. An anime specific funko pop store.
 
 ## Home
 
